@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: config-microservice
+
+server:
+  port: 8088
